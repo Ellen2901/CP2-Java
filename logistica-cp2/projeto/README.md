@@ -49,7 +49,7 @@ src/
 
 O diagrama abaixo representa a modelagem do domínio do sistema, evidenciando o uso de **herança**, **interfaces** e **classe abstrata**, conforme os princípios de Domain Driven Design.
 
-![Diagrama de Classes UML](docs/uml/Diagrama UML.png)
+![Diagrama de Classes UML](docs/uml/Diagrama_UML.png)
 
 ---
 
